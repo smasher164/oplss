@@ -1,0 +1,10 @@
+resolver: lts-21.1
+
+# Local packages, usually specified by relative directory name
+packages:
+- '.'
+
+flags: {}
+
+extra-package-dbs: []
+
